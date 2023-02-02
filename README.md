@@ -1,2 +1,2 @@
-# camera_object_detection_py
+# Movement detector on camera
 Detects objects moving in camera and sends an email notification with attached picture.
