@@ -9,6 +9,7 @@ Videos are a stack of static pictures called frames. This algorithm compares fra
 
 #### Requirements
 - Python3
+- Integrated camera
 
 #### How to use
 Clone repository and install needed packages. Run through command line.
