@@ -9,7 +9,6 @@ Videos are a stack of static pictures called frames. This algorithm compares fra
 
 #### Requirements
 - Python3
-- OpenCV library
 
 #### How to use
 Clone repository and install needed packages. Run through command line.
